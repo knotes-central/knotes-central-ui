@@ -1,6 +1,6 @@
 import type { Config } from "tailwindcss";
 
-export default {
+const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
@@ -11,8 +11,16 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        neon: {
+          blue: "var(--neon-blue)",
+          purple: "var(--neon-purple)",
+          pink: "var(--neon-pink)",
+          green: "var(--neon-green)",
+        },
       },
     },
   },
-  plugins: [],
-} satisfies Config;
+  darkMode: "class",
+};
+
+export default config;
