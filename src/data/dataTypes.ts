@@ -29,8 +29,8 @@ export interface Note {
 
 export interface Contributors {
   name: string;
-  link: string;
+  description: string;
   department: string;
   year: number;
-  notes_contributed: number;
+  link: string;
 }
