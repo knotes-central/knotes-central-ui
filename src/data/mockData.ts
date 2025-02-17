@@ -2299,21 +2299,24 @@ export const departments: Department[] = [
 export const contributors: Contributors[] = [
   {
     name: "S Prajwall Narayana",
-    description: "string",
+    contribution:"Developer",
+    description: "",
     department: "Computer Science",
     year: 1,
-    link: ""
+    link: "https://developer1100x.github.io/KnotesCentralV1.0/"
   },
   {
     name: "Krishna Tejaswi ",
-    description: "string",
+    contribution:"Developer",
+    description: "",
     department: "Electrical Engineering",
     year: 2,
     link: ""
   },
   {
     name: "John Doe",
-    description: "string",
+    contribution:"Developer",
+    description: "",
     department: "Computer Science",
     year: 1,
     link: ""
