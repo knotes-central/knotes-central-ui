@@ -2302,23 +2302,202 @@ export const contributors: Contributors[] = [
     contribution:"Developer",
     description: "",
     department: "Computer Science",
-    year: 1,
-    link: "https://developer1100x.github.io/KnotesCentralV1.0/"
+    year: 2025,
+    link: "https://developer1010x.github.io/S_Prajwall_Narayana/"
   },
   {
     name: "Krishna Tejaswi ",
     contribution:"Developer",
     description: "",
-    department: "Electrical Engineering",
-    year: 2,
-    link: ""
+    department: "Computer Science",
+    year: 2025,
+    link: "https://krishnatejaswi-s.vercel.app"
   },
   {
-    name: "John Doe",
-    contribution:"Developer",
+    name: "S Prajwall Narayana",
+    contribution:"GDrive",
     description: "",
     department: "Computer Science",
-    year: 1,
-    link: ""
+    year: 2025,
+    link: "https://developer1010x.github.io/S_Prajwall_Narayana/"
   },
+  {
+    "name": "Sushas",
+    "contribution": "GDrive",
+    "description": "",
+    "department": "ETE",
+    "year": 2026,
+    "link": ""
+  },
+  {
+    "name": "Skanda",
+    "contribution": "GDrive",
+    "description": "",
+    "department": "CSE",
+    "year": 2026,
+    "link": ""
+  },
+  {
+    "name": "Hemanth",
+    "contribution": "GDrive",
+    "description": "",
+    "department": "CSE",
+    "year": 2026,
+    "link": ""
+  },
+
+    {
+      "name": "Arpitha R S",
+      "contribution": "Notes",
+      "description": "",
+      "department": "BT",
+      "year": 2024,
+      "link": ""
+    },
+    {
+      "name": "Harish Narayan",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CH",
+      "year": 2024,
+      "link": ""
+    },
+    {
+      "name": "Jagadeesh",
+      "contribution": "Notes",
+      "description": "",
+      "department": "AS",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Shard PM",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CV",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Shruthishree",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CH",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "H P Manoj",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CSE",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Joshua Elias Alva",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CSE",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Aditya Joshi",
+      "contribution": "Notes",
+      "description": "",
+      "department": "ECE",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Shrinidhi Udupa",
+      "contribution": "Notes",
+      "description": "",
+      "department": "ECE",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Vijay Kiran",
+      "contribution": "Notes",
+      "description": "",
+      "department": "ECE",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Mukul K",
+      "contribution": "Notes",
+      "description": "",
+      "department": "ME",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Vardhan",
+      "contribution": "Notes",
+      "description": "",
+      "department": "IEM",
+      "year": 2025,
+      "link": ""
+    },
+    {
+      "name": "Dhruv",
+      "contribution": "Notes",
+      "description": "",
+      "department": "EIE",
+      "year": 2026,
+      "link": ""
+    },
+    {
+      "name": "Sushas",
+      "contribution": "Notes",
+      "description": "",
+      "department": "ETE",
+      "year": 2026,
+      "link": ""
+    },
+    {
+      "name": "Shreesha",
+      "contribution": "Notes",
+      "description": "",
+      "department": "EIE",
+      "year": 2026,
+      "link": ""
+    },
+    {
+      "name": "Afnan",
+      "contribution": "Notes",
+      "description": "",
+      "department": "ETE",
+      "year": 2026,
+      "link": ""
+    },
+    {
+      "name": "Megha",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CH",
+      "year": 2026,
+      "link": ""
+    },
+    {
+      "name": "Hemanth",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CSE",
+      "year": 2026,
+      "link": ""
+    },
+    {
+      "name": "Skanda",
+      "contribution": "Notes",
+      "description": "",
+      "department": "CSE",
+      "year": 2026,
+      "link": ""
+    }
+  
+  
 ];
