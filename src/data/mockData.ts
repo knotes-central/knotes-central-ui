@@ -1133,11 +1133,11 @@ export const departments: Department[] = [
                   ]
                 },
                 {
-                  name: "Human Resource Management",
+                  name: "Human theory Management",
                   subject_code: "IEM305",
                   notes: [
                     {
-                      title: "Human Resource Management Notes",
+                      title: "Human theory Management Notes",
                       type: "theory",
                       link: "https://drive.google.com/drive/folders/1ZTtoLYREO7Qx9_ktc9Ga606ZkIsSVKk6?usp=sharing"
                     }
@@ -1182,7 +1182,7 @@ export const departments: Department[] = [
       ]
     },
     {
-      name: "ALL Engineering",
+      name: "Global Engineering Subjects",
       description: "Common subjects for all engineering disciplines, including HSS and global subjects. Free CGPA and SGPA courses",
       link: "/all-engineering",
       years: [
@@ -1782,7 +1782,7 @@ export const departments: Department[] = [
   },
   {
     "name": "Biotechnology Engineering",
-    "description": "Comprehensive study resources for Biotechnology Engineering, covering genetic engineering, microbial biotechnology, bioinformatics, and downstream processing.",
+    "description": "Comprehensive study theorys for Biotechnology Engineering, covering genetic engineering, microbial biotechnology, bioinformatics, and downstream processing.",
     "link": "/biotech",
     "years": [
       {
@@ -1992,6 +1992,304 @@ export const departments: Department[] = [
       }
     ]
   },
+  {
+    "name": "Electronics and Instrumentation Engineering",
+    "description": "Comprehensive study theorys for Electronics and Instrumentation Engineering",
+    "link": "/ei",
+    "years": [
+      {
+        "year": 2,
+        "semesters": [
+          {
+            "number": 3,
+            "subjects": [
+              {
+                "name": "ADDC",
+                "subject_code": "EI201",
+                "notes": [
+                  {
+                    "title": "ADDC Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1dstVa8qoCLC0q5lP8eTK0RAxJwsxv09u?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "Control Engineering",
+                "subject_code": "EI202",
+                "notes": [
+                  {
+                    "title": "Control Engineering Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1R2AMd8g_smM2p3HXw_leYg8tSEeh8F4H?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "LIC",
+                "subject_code": "EI203",
+                "notes": [
+                  {
+                    "title": "LIC Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/13hoQY-ROf3xYWkHoZ9DL7SbsPqi9ERJd?usp=sharing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "subjects": [
+              {
+                "name": "Signals",
+                "subject_code": "EI204",
+                "notes": [
+                  {
+                    "title": "Signals Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1II7fqhpvrsOcC-nydORb5d--rScZx1rU?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "MCP",
+                "subject_code": "EI205",
+                "notes": [
+                  {
+                    "title": "MCP Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1hebwFnNpSfdU5eHemwloIJIQktoDVDwV?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "EM",
+                "subject_code": "EI206",
+                "notes": [
+                  {
+                    "title": "EM Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1k368-Ei0NsEDl1FwP_4FATzfZGV3cA7S?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "EFA",
+                "subject_code": "EI207",
+                "notes": [
+                  {
+                    "title": "EFA Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1I0ByYdzbtGnJzLD6uzTGmFlBPL4iFU0I?usp=sharing"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": 3,
+        "semesters": [
+          {
+            "number": 5,
+            "subjects": [
+              {
+                "name": "Digital VLSI Design",
+                "subject_code": "EI301",
+                "notes": [
+                  {
+                    "title": "Digital VLSI Design Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/10Id9a8zwWdHcT60-ERSHc-JIp322bMvA?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "Embedded System Design",
+                "subject_code": "EI302",
+                "notes": [
+                  {
+                    "title": "Embedded System Design Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1paxk-N78DHiIEsL1WiKCIj28t-LpFB1t?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "Automatic Process Control and Virtual Instrumentation",
+                "subject_code": "EI303",
+                "notes": [
+                  {
+                    "title": "APC and VI Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1J1Ea_SvkIMy_Vmve9c8J-lFf8YOa943Y?usp=sharing"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "subjects": [
+              {
+                "name": "PLC and SCADA Systems",
+                "subject_code": "EI304",
+                "notes": [
+                  {
+                    "title": "PLC and SCADA Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1nJGsv6baQ1Nu4MJowQ2SqPTM1LP1vSUf?usp=sharing"
+                  }
+                ]
+              },
+              {
+                "name": "Digital Signal Processing",
+                "subject_code": "EI305",
+                "notes": [
+                  {
+                    "title": "DSP Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/1ebUpymIbwq-0ranUdIjeZntDuXRp8DnI?usp=sharing"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "year": 4,
+        "semesters": [
+          {
+            "number": 7,
+            "subjects": [
+              {
+                "name": "Image Processing and Applications",
+                "subject_code": "EI401",
+                "notes": [
+                  {
+                    "title": "Image Processing Notes",
+                    "type": "theory",
+                    "link": "https://drive.google.com/drive/folders/19NnT6OE3lknfpofFOM-ZrDvwl67oDVE_?usp=sharing"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+
+  },
+ 
+{
+  "name": "Miscellaneous ",
+  "description": "Useful links for various academic and non-academic .",
+  "link": "/miscellaneous",
+  "years": [
+      {
+          "year": 0,
+          "semesters": [
+              {
+                  "number": 0,
+                  "subjects":[
+                    {
+                      "name": "Activity Points Report",
+                      "notes": [
+                        {
+                          "title": "Activity Points Report Example",
+                          "type": "theory",
+                          "link": "https://drive.google.com/drive/folders/1_-mIs5Dv9CPMd5U2xq-rD_xizJLc5p3W?usp=sharing"
+                        }
+                      ],
+                      subject_code: ""
+                    },
+                      {
+                        "name": "Syllabus Page",
+                        "notes": [
+                          {
+                            "title": "Syllabus and Curriculum",
+                            "type": "theory",
+                            "link": "https://rvce.edu.in/rvce-scheme-syllabus"
+                          }
+                        ],
+                        subject_code: ""
+                      },
+                      {
+                        "name": "SAP Portal",
+                        "notes": [
+                          {
+                            "title": "SAP Portal Link",
+                            "type": "theory",
+                            "link": "https://wds-prd.rvei.edu.in:4430/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html?sap-client=700&sap-language=EN#Shell-home"
+                          }
+                        ],
+                        subject_code: ""
+                      },
+                      {
+                        "name": "Reddit Community",
+                        "notes": [
+                          {
+                            "title": "RVCE Reddit Page",
+                            "type": "theory",
+                            "link": "https://www.reddit.com/r/rvce/?rdt=63474"
+                          }
+                        ],
+                        subject_code: ""
+                      },
+                      {
+                        "name": "Lost and Found",
+                        "notes": [
+                          {
+                            "title": "Lost and Found Portal",
+                            "type": "theory",
+                            "link": "https://lostnfound.pythonanywhere.com/login"
+                          }
+                        ],
+                        subject_code: ""
+                      }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+              
+                },
+{
+  "name": "Previous Year Question Papers",
+  "description": "Dear user,You can access through this RVCE link: PYQP within RVCE premises using college IP address, old semester examination question papers of both UG (RVCE autonomous) and PG (VTU) papers by giving appropriate keyword search. This can be accessed in any department & any system through college IP address ONLY so you gotta be connected to College WiFi.Note: Some of the subjects old question papers (both UG & PG) may not have been uploaded.If you are UNABLE to open the link, please follow the following procedure:Log on to www.rvce.edu.inClick on Library on the side of the web page Click on Dspace@rvce.",
+
+  "link": "/pyqp",
+  "years": [
+      {
+          "year": 0,
+          "semesters": [
+              {
+                  "number": 0,
+                  "subjects": [
+                      {
+                        "name": "All Subjects",
+                        "notes": [
+                          {
+                            "title": "Previous Year Question Papers",
+                            "type": "theory",
+                            "link": "http://172.16.44.10:8080/jspui/handle/123456789/207"
+                          }
+                        ],
+                        subject_code: ""
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
+}
+
+
+
+  
 
     
     
@@ -2004,17 +2302,20 @@ export const contributors: Contributors[] = [
     description: "string",
     department: "Computer Science",
     year: 1,
+    link: ""
   },
   {
     name: "Krishna Tejaswi ",
     description: "string",
     department: "Electrical Engineering",
     year: 2,
+    link: ""
   },
   {
     name: "John Doe",
     description: "string",
     department: "Computer Science",
     year: 1,
+    link: ""
   },
 ];
